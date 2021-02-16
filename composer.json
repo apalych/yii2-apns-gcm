@@ -1,5 +1,5 @@
 {
-    "name": "intersvyaz/yii2-apns-gcm",
+    "name": "apalych/yii2-apns-gcm",
     "description": "Yii 2 Apns and Gcm together",
     "type": "yii2-extension",
     "version": "1.0.4.1",
