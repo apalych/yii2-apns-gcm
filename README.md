@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist apalych/yii2-apns-gcm "1.0.4"
+php composer.phar require --prefer-dist apalych/yii2-apns-gcm "1.0.4.1"
 ```
 
 or add
 
 ```
-"intersvyaz/yii2-apns-gcm": "1.0.4"
+"apalych/yii2-apns-gcm": "1.0.4.1"
 ```
 
 to the require section of your `composer.json` file.
